@@ -1,8 +1,8 @@
 #include <Blynk.h>
 #include "BlynkEdgent.h"
 
-#define BLYNK_TEMPLATE_ID "TMPL9Ex_wBpX"
-#define BLYNK_DEVICE_NAME "IOT"
+#define BLYNK_TEMPLATE_ID "TMPL9Ex_gBpX" //This is a unique ID given to the template created by blynk 2.0
+#define BLYNK_DEVICE_NAME "IOT" //Should be same specified in your web dashboard and info section
 #include "DHT.h"
 
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
